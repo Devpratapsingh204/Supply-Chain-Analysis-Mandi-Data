@@ -38,7 +38,7 @@ This project analyzes mandi price data from the Government of India to understan
 ## 🚀 Future Scope
 - Real-time data integration  
 - Prediction models  
-- Power BI dashboard intercation 
+- Power BI dashboard interaction 
 
 ---
 
